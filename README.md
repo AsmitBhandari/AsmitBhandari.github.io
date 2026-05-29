@@ -1,83 +1,79 @@
-# 🚀 AsmitLabs
+# 🌐 AsmitLabs Website
 
-### Building Intelligent Systems • Developer Tools • Full-Stack Applications
+Official website repository for the AsmitLabs ecosystem.
 
----
+## 🚀 Live Websites
 
-## 🌐 About AsmitLabs
+### Portfolio
 
-AsmitLabs is a personal ecosystem of projects focused on:
+🔗 [https://portfolio.asmitlabs.me](https://portfolio.asmitlabs.me)
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 🌍 Full Stack Development
-* ♿ Accessibility Technology
-* 🧠 Compiler Design & Developer Tools
-* ☁️ Cloud & System Design
+### Main Domain
+
+🔗 [https://asmitlabs.me](https://asmitlabs.me)
 
 ---
 
-## 🔗 Quick Links
+## 📖 About
 
-* 🌐 **Portfolio:** https://portfolio.asmitlabs.me
-* 💻 **GitHub:** https://github.com/AsmitBhandari
-* 💼 **LinkedIn:** https://www.linkedin.com/in/asmit-bhandari-841578331
+This repository manages the web presence of AsmitLabs, including custom domains, project showcases, and future landing pages.
 
----
-
-## 🚀 Featured Projects
-
-| Project                    | Description                                                                 |
-| -------------------------- | --------------------------------------------------------------------------- |
-| **BrailleBridge**          | AI-powered platform converting documents and images into Braille and speech |
-| **Code Morpher**           | Source-to-source code converter with AST, Tokens & Compiler Visualization   |
-| **GEHUVerse**              | Campus Metaverse for students and academic collaboration                    |
-| **Exam Management System** | Full-stack online examination and result platform                           |
-| **Flight Seat Allocator**  | Intelligent seat allocation and visualization system                        |
+The goal of AsmitLabs is to build intelligent systems, developer tools, accessibility solutions, and full-stack applications.
 
 ---
 
-## ⚙️ Tech Stack
-
-### Languages
-
-* Java
-* Python
-* JavaScript
-* C
-
-### Frontend
-
-* React
-* Vite
-* Tailwind CSS
-* Three.js
-
-### Backend & Database
-
-* FastAPI
-* Flask
-* MongoDB
-* MySQL
-
----
-
-## 🏗️ AsmitLabs Ecosystem
+## 🌍 AsmitLabs Ecosystem
 
 ```text
 asmitlabs.me
 │
-├── https://portfolio.asmitlabs.me
-├── https://exam.asmitlabs.me
-├── https://braille.asmitlabs.me
-├── https://gehuverse.asmitlabs.me
-├── https://codemorpher.asmitlabs.me
+├── portfolio.asmitlabs.me
+├── exam.asmitlabs.me
+├── braille.asmitlabs.me
+├── gehuverse.asmitlabs.me
+├── codemorpher.asmitlabs.me
 └── future-projects...
 ```
 
+## 🛠 Technologies
+
+* GitHub Pages
+* Vercel
+* Namecheap DNS
+* React
+* Vite
+* Tailwind CSS
+* Three.js
+* MongoDB Atlas
+
 ---
 
-## 🌟 Portfolio
+## 📂 Future Services
 
-### https://portfolio.asmitlabs.me
+### Exam Management System
 
-*"Ideas become products when they are deployed."*
+Online examination platform with role-based access and analytics.
+
+### BrailleBridge
+
+AI-powered accessibility platform for Braille and speech conversion.
+
+### GEHUVerse
+
+Campus metaverse platform for collaboration and academic interaction.
+
+### Code Morpher
+
+Source-to-source code converter and compiler visualization platform.
+
+---
+
+## 🔗 Links
+
+Portfolio: [https://portfolio.asmitlabs.me](https://portfolio.asmitlabs.me)
+
+GitHub: [https://github.com/AsmitBhandari](https://github.com/AsmitBhandari)
+
+---
+
+Built and maintained by Asmit Bhandari.
