@@ -1,56 +1,83 @@
 # 🚀 AsmitLabs
 
-Building intelligent systems, developer tools, and impactful software.
-
-AsmitLabs is a collection of projects created by Asmit Bhandari, focused on AI/ML, full-stack development, accessibility, education technology, and software engineering.
-
-## 🌐 Explore
-
-### Portfolio
-
-🔗 https://portfolio.asmitlabs.me
-
-### Main Domain
-
-🔗 https://asmitlabs.me
-
-## 🛠 Featured Projects
-
-### BrailleBridge
-
-AI-powered accessibility platform that converts documents and images into Braille and speech.
-
-### Code Morpher
-
-A source-to-source code converter and compiler visualization platform powered by ANTLR4.
-
-### GEHUVerse
-
-A virtual campus ecosystem designed to connect students, projects, and academic activities.
-
-### Exam Management System
-
-A scalable online examination platform with role-based access, analytics, and automated evaluation.
-
-### Flight Seat Allocator
-
-A visualization-driven seat allocation system built using optimization techniques.
-
-## 🎯 Focus Areas
-
-* Artificial Intelligence & Machine Learning
-* Full Stack Development
-* Accessibility Technology
-* Compiler Design
-* System Design
-* Developer Tools
-
-## 📫 Connect
-
-Portfolio: https://portfolio.asmitlabs.me
-
-GitHub: https://github.com/AsmitBhandari
+### Building Intelligent Systems • Developer Tools • Full-Stack Applications
 
 ---
 
-*"Building projects that solve real problems, one deployment at a time."*
+## 🌐 About AsmitLabs
+
+AsmitLabs is a personal ecosystem of projects focused on:
+
+* 🤖 Artificial Intelligence & Machine Learning
+* 🌍 Full Stack Development
+* ♿ Accessibility Technology
+* 🧠 Compiler Design & Developer Tools
+* ☁️ Cloud & System Design
+
+---
+
+## 🔗 Quick Links
+
+* 🌐 **Portfolio:** https://portfolio.asmitlabs.me
+* 💻 **GitHub:** https://github.com/AsmitBhandari
+* 💼 **LinkedIn:** https://www.linkedin.com/in/asmit-bhandari-841578331
+
+---
+
+## 🚀 Featured Projects
+
+| Project                    | Description                                                                 |
+| -------------------------- | --------------------------------------------------------------------------- |
+| **BrailleBridge**          | AI-powered platform converting documents and images into Braille and speech |
+| **Code Morpher**           | Source-to-source code converter with AST, Tokens & Compiler Visualization   |
+| **GEHUVerse**              | Campus Metaverse for students and academic collaboration                    |
+| **Exam Management System** | Full-stack online examination and result platform                           |
+| **Flight Seat Allocator**  | Intelligent seat allocation and visualization system                        |
+
+---
+
+## ⚙️ Tech Stack
+
+### Languages
+
+* Java
+* Python
+* JavaScript
+* C
+
+### Frontend
+
+* React
+* Vite
+* Tailwind CSS
+* Three.js
+
+### Backend & Database
+
+* FastAPI
+* Flask
+* MongoDB
+* MySQL
+
+---
+
+## 🏗️ AsmitLabs Ecosystem
+
+```text
+asmitlabs.me
+│
+├── https://portfolio.asmitlabs.me
+├── https://exam.asmitlabs.me
+├── https://braille.asmitlabs.me
+├── https://gehuverse.asmitlabs.me
+├── https://codemorpher.asmitlabs.me
+└── future-projects...
+```
+
+---
+
+## 🌟 Portfolio
+
+### https://portfolio.asmitlabs.me
+
+*"Ideas become products when they are deployed."*
