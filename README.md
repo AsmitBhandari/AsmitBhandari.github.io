@@ -74,6 +74,8 @@ Portfolio: [https://portfolio.asmitlabs.me](https://portfolio.asmitlabs.me)
 
 GitHub: [https://github.com/AsmitBhandari](https://github.com/AsmitBhandari)
 
+LinkedIn: [https://www.linkedin.com/in/asmit-bhandari-841578331](https://www.linkedin.com/in/asmit-bhandari-841578331)
+
 ---
 
 Built and maintained by Asmit Bhandari.
